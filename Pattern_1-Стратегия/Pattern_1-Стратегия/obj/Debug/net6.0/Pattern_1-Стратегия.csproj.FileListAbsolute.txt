@@ -1,0 +1,15 @@
+G:\PATTERNS\Pattern_1-Стратегия\Pattern_1-Стратегия\bin\Debug\net6.0\Pattern_1-Стратегия.exe
+G:\PATTERNS\Pattern_1-Стратегия\Pattern_1-Стратегия\bin\Debug\net6.0\Pattern_1-Стратегия.deps.json
+G:\PATTERNS\Pattern_1-Стратегия\Pattern_1-Стратегия\bin\Debug\net6.0\Pattern_1-Стратегия.runtimeconfig.json
+G:\PATTERNS\Pattern_1-Стратегия\Pattern_1-Стратегия\bin\Debug\net6.0\Pattern_1-Стратегия.dll
+G:\PATTERNS\Pattern_1-Стратегия\Pattern_1-Стратегия\bin\Debug\net6.0\Pattern_1-Стратегия.pdb
+G:\PATTERNS\Pattern_1-Стратегия\Pattern_1-Стратегия\obj\Debug\net6.0\Pattern_1-Стратегия.csproj.AssemblyReference.cache
+G:\PATTERNS\Pattern_1-Стратегия\Pattern_1-Стратегия\obj\Debug\net6.0\Pattern_1-Стратегия.GeneratedMSBuildEditorConfig.editorconfig
+G:\PATTERNS\Pattern_1-Стратегия\Pattern_1-Стратегия\obj\Debug\net6.0\Pattern_1-Стратегия.AssemblyInfoInputs.cache
+G:\PATTERNS\Pattern_1-Стратегия\Pattern_1-Стратегия\obj\Debug\net6.0\Pattern_1-Стратегия.AssemblyInfo.cs
+G:\PATTERNS\Pattern_1-Стратегия\Pattern_1-Стратегия\obj\Debug\net6.0\Pattern_1-Стратегия.csproj.CoreCompileInputs.cache
+G:\PATTERNS\Pattern_1-Стратегия\Pattern_1-Стратегия\obj\Debug\net6.0\Pattern_1-Стратегия.dll
+G:\PATTERNS\Pattern_1-Стратегия\Pattern_1-Стратегия\obj\Debug\net6.0\refint\Pattern_1-Стратегия.dll
+G:\PATTERNS\Pattern_1-Стратегия\Pattern_1-Стратегия\obj\Debug\net6.0\Pattern_1-Стратегия.pdb
+G:\PATTERNS\Pattern_1-Стратегия\Pattern_1-Стратегия\obj\Debug\net6.0\Pattern_1-Стратегия.genruntimeconfig.cache
+G:\PATTERNS\Pattern_1-Стратегия\Pattern_1-Стратегия\obj\Debug\net6.0\ref\Pattern_1-Стратегия.dll
