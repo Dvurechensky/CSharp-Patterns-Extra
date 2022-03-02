@@ -121,16 +121,22 @@ public static class LogEntryBaseEx
     }
 }
 
-//фабрика
+//интерфейс для взаимодействия с фабриками
 public abstract class Creator
 {
-    Product product;
+    private Product? product;
 
     public abstract Product ProductFactoryMethod(int x, int y);
+    public abstract Product ProductFactoryMethod_2(int x, int y);
 
     public void AnProductOperation(int x, int y)
     {
         product = ProductFactoryMethod(x, y);
+    }
+
+    public void AnProductOperation_2(int x, int y)
+    {
+        product = ProductFactoryMethod_2(x, y);
     }
 }
 
@@ -141,12 +147,17 @@ public class ConcreteCreator : Creator
     {
         return new ConcreteProduct(x, y);
     }
+
+    public override Product ProductFactoryMethod_2(int x, int y)
+    {
+        return new ConcreteProduct_2(x, y);
+    }
 }
 
 //интерфейс для взаимодействия с продуктами
 public abstract class Product
 {
-
+    public abstract void GetText();
 }
 
 //конкретный продукт
@@ -156,6 +167,25 @@ public class ConcreteProduct : Product
     {
         Console.WriteLine($"x {x} y {y}");
     }
+
+    public override void GetText()
+    {
+        Console.WriteLine("1");
+    }
+}
+
+
+public class ConcreteProduct_2 : Product
+{
+    public ConcreteProduct_2(int x, int y)
+    {
+        Console.WriteLine($"x2 {x} y2 {y}");
+    }
+
+    public override void GetText()
+    {
+        Console.WriteLine("2");
+    }
 }
 
 
@@ -163,7 +193,15 @@ public class Program
 {
     public static void Main(string[] args)
     {
-        var creator = new ConcreteCreator();
-        creator.AnProductOperation(1, 2);
+        Product product1 = null;
+        Product product2 = null;
+        var creator = new ConcreteCreator(); //Инициализирую фабрику
+        product1 = creator.ProductFactoryMethod(1, 2);
+        product2 = creator.ProductFactoryMethod_2(1, 2);
+
+        Console.WriteLine($"{product1.GetType().Name} {product2.GetType().Name}");
+
+        product1.GetText();
+        product2.GetText();
     }
 }
