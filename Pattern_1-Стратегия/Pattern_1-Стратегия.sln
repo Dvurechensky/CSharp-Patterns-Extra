@@ -5,7 +5,7 @@ VisualStudioVersion = 17.1.32210.238
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pattern_1-Стратегия", "Pattern_1-Стратегия\Pattern_1-Стратегия.csproj", "{9976C22F-4293-40CE-8E2E-F6C56D096164}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pattern_2-Шаблонный метод", "Pattern_2-Шаблонный метод\Pattern_2-Шаблонный метод.csproj", "{BC45C9FC-E037-4066-B3EB-A5EA98D4E7BF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pattern_2-Фабричный метод", "Pattern_2-Шаблонный метод\Pattern_2-Фабричный метод.csproj", "{BC45C9FC-E037-4066-B3EB-A5EA98D4E7BF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

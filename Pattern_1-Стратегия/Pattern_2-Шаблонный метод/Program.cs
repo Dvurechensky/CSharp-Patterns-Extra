@@ -1,7 +1,7 @@
 ﻿/*
  * ПАТТЕРНЫ ПОВЕДЕНИЯ
  * 
- * Глава_2: Фабричный метод
+ * Глава_2: Фабричный метод(виртуальный конструктор)
  * 
  *  — это каркас, в который наследники могут
  * подставить реализации недостающих элементов.
@@ -121,10 +121,49 @@ public static class LogEntryBaseEx
     }
 }
 
-class Program
+//фабрика
+public abstract class Creator
+{
+    Product product;
+
+    public abstract Product ProductFactoryMethod(int x, int y);
+
+    public void AnProductOperation(int x, int y)
+    {
+        product = ProductFactoryMethod(x, y);
+    }
+}
+
+//конкретная фабрика
+public class ConcreteCreator : Creator
+{
+    public override Product ProductFactoryMethod(int x, int y)
+    {
+        return new ConcreteProduct(x, y);
+    }
+}
+
+//интерфейс для взаимодействия с продуктами
+public abstract class Product
+{
+
+}
+
+//конкретный продукт
+public class ConcreteProduct : Product
+{
+    public ConcreteProduct(int x, int y)
+    {
+        Console.WriteLine($"x {x} y {y}");
+    }
+}
+
+
+public class Program
 {
     public static void Main(string[] args)
     {
-
+        var creator = new ConcreteCreator();
+        creator.AnProductOperation(1, 2);
     }
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4l0uf4GxZn43vPnm1zIkbJjhT8PdJYcIkm6Tp1/2mZt6vk26sYhkj6//Nm7+fbSaFvIs58y/3D+xT8vh88xpvw==",
+  "dgSpecHash": "YRsSxhWaaFAOemL2aMCYaqFhHG5Ew1CMVtvm2/HaHEoW5Iw8j0EZP9VD1WsEClVF0z/US91ou0yBqDKuZwoqMg==",
   "success": true,
-  "projectFilePath": "E:\\1_GITHUB\\C-Sharp-Patterns\\Pattern_1-Стратегия\\Pattern_2-Шаблонный метод\\Pattern_2-Шаблонный метод.csproj",
+  "projectFilePath": "E:\\1_GITHUB\\C-Sharp-Patterns\\Pattern_1-Стратегия\\Pattern_2-Шаблонный метод\\Pattern_2-Фабричный метод.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ROTA\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\5.0.0\\microsoft.bcl.asyncinterfaces.5.0.0.nupkg.sha512",
     "C:\\Users\\ROTA\\.nuget\\packages\\microsoft.extensions.objectpool\\5.0.10\\microsoft.extensions.objectpool.5.0.10.nupkg.sha512",
