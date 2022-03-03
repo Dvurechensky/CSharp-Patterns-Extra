@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pattern_1-Стратеги�
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pattern_2-Фабричный метод", "Pattern_2-Шаблонный метод\Pattern_2-Фабричный метод.csproj", "{BC45C9FC-E037-4066-B3EB-A5EA98D4E7BF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pattern_3-Посредник(Mediator)", "Pattern_3-Посредник(Mediator)\Pattern_3-Посредник(Mediator).csproj", "{F2E4BD9E-E31E-4C5B-A7BA-6D14B4332388}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pattern_3-Посредник(Mediator)", "Pattern_3-Посредник(Mediator)\Pattern_3-Посредник(Mediator).csproj", "{F2E4BD9E-E31E-4C5B-A7BA-6D14B4332388}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pattern_4-Итератор(Iterator)", "Pattern_4-Итератор(Iterator)\Pattern_4-Итератор(Iterator).csproj", "{2A2134F4-9496-49A3-9F94-79EBC25F8E03}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{F2E4BD9E-E31E-4C5B-A7BA-6D14B4332388}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F2E4BD9E-E31E-4C5B-A7BA-6D14B4332388}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F2E4BD9E-E31E-4C5B-A7BA-6D14B4332388}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A2134F4-9496-49A3-9F94-79EBC25F8E03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A2134F4-9496-49A3-9F94-79EBC25F8E03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A2134F4-9496-49A3-9F94-79EBC25F8E03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A2134F4-9496-49A3-9F94-79EBC25F8E03}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
