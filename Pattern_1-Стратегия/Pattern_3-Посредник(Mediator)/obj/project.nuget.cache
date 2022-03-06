@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "osH26NxxzsSWCN+8iQftqVNYsra+X6Ay1a1dXJrYx8ZY86rTp89KEc9yafoD7N0FZ00zAOKTN59E/RigCEAnJQ==",
+  "dgSpecHash": "3o286uXQ3bBooBHt8B5T46QOGgRz9QFXMjABpVod2st913jb3btzgBq66Vgb3hpi/REgA2eD6LfKbfRYQcOVmw==",
   "success": true,
-  "projectFilePath": "E:\\1_GITHUB\\C-Sharp-Patterns\\Pattern_1-Стратегия\\Pattern_3-Посредник(Mediator)\\Pattern_3-Посредник(Mediator).csproj",
+  "projectFilePath": "G:\\PATTERNS\\C-Sharp-Patterns\\Pattern_1-Стратегия\\Pattern_3-Посредник(Mediator)\\Pattern_3-Посредник(Mediator).csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

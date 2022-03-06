@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ICokp9JV9BpWS2pcP3H61Rw9/IhAm9VV6rcczLaisF94zBO7SSWeAzMq/BvplUlqTdUeUaFX45GCL3tCT49quQ==",
+  "dgSpecHash": "J1i3cAXMo3oWzqc8iQacEnVj8APokwp7jEYG7KMGP5A16y4ViDSZVwsREj5X+bgopvaHwliEa8VCR75UBdy8pQ==",
   "success": true,
-  "projectFilePath": "E:\\1_GITHUB\\C-Sharp-Patterns\\Pattern_1-Стратегия\\Pattern_5-Наблюдатель(Observer)\\Pattern_5-Наблюдатель(Observer).csproj",
+  "projectFilePath": "G:\\PATTERNS\\C-Sharp-Patterns\\Pattern_1-Стратегия\\Pattern_5-Наблюдатель(Observer)\\Pattern_5-Наблюдатель(Observer).csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
