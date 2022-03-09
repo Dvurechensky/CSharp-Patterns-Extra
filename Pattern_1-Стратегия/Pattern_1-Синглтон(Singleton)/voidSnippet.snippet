@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<CodeSnippet Format="1.0.0" xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+	<Header>
+		<Title>Мой сниппет</Title>
+		<Author>Николай</Author>
+		<Shortcut>void</Shortcut>
+		<Description>генерация void метода</Description>
+		<SnippetTypes>
+			<SnippetType>Expansion</SnippetType>
+		</SnippetTypes>
+	</Header>
+	<Snippet>
+		<Declarations>
+			<Literal>
+				<ID>public</ID>
+				<ToolTip>Модификатор доступности</ToolTip>
+				<Default>public</Default>
+			</Literal>
+			<Literal>
+				<ID>void</ID>
+				<ToolTip>Тип возвращаемого значения</ToolTip>
+				<Default>void</Default>
+			</Literal>
+			<Literal>
+				<ID>name</ID>
+				<ToolTip>Имя метода</ToolTip>
+				<Default>name</Default>
+			</Literal>
+			<Literal>
+				<ID>value</ID>
+				<ToolTip>Возвращаемое значение</ToolTip>
+				<Default>value</Default>
+			</Literal>
+		</Declarations>
+		<Code Language="CSharp">
+			<![CDATA[
+			$public$ $void$ $name$() 
+			{ 
+				return $value$; 
+			}]]>
+		</Code>
+	</Snippet>
+</CodeSnippet>
