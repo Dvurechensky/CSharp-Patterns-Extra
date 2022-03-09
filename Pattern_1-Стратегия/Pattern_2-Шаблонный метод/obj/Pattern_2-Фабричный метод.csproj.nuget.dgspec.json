@@ -1,24 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "G:\\PATTERNS\\C-Sharp-Patterns\\Pattern_1-Стратегия\\Pattern_2-Шаблонный метод\\Pattern_2-Фабричный метод.csproj": {}
+    "E:\\1_GITHUB\\C-Sharp-Patterns\\Pattern_1-Стратегия\\Pattern_2-Шаблонный метод\\Pattern_2-Фабричный метод.csproj": {}
   },
   "projects": {
-    "G:\\PATTERNS\\C-Sharp-Patterns\\Pattern_1-Стратегия\\Pattern_1-Стратегия\\Pattern_1-Стратегия.csproj": {
+    "E:\\1_GITHUB\\C-Sharp-Patterns\\Pattern_1-Стратегия\\Pattern_1-Стратегия\\Pattern_1-Стратегия.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\PATTERNS\\C-Sharp-Patterns\\Pattern_1-Стратегия\\Pattern_1-Стратегия\\Pattern_1-Стратегия.csproj",
+        "projectUniqueName": "E:\\1_GITHUB\\C-Sharp-Patterns\\Pattern_1-Стратегия\\Pattern_1-Стратегия\\Pattern_1-Стратегия.csproj",
         "projectName": "Pattern_1-Стратегия",
-        "projectPath": "G:\\PATTERNS\\C-Sharp-Patterns\\Pattern_1-Стратегия\\Pattern_1-Стратегия\\Pattern_1-Стратегия.csproj",
-        "packagesPath": "C:\\Users\\Николай\\.nuget\\packages\\",
-        "outputPath": "G:\\PATTERNS\\C-Sharp-Patterns\\Pattern_1-Стратегия\\Pattern_1-Стратегия\\obj\\",
+        "projectPath": "E:\\1_GITHUB\\C-Sharp-Patterns\\Pattern_1-Стратегия\\Pattern_1-Стратегия\\Pattern_1-Стратегия.csproj",
+        "packagesPath": "C:\\Users\\ROTA\\.nuget\\packages\\",
+        "outputPath": "E:\\1_GITHUB\\C-Sharp-Patterns\\Pattern_1-Стратегия\\Pattern_1-Стратегия\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Николай\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ROTA\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -63,21 +62,20 @@
         }
       }
     },
-    "G:\\PATTERNS\\C-Sharp-Patterns\\Pattern_1-Стратегия\\Pattern_2-Шаблонный метод\\Pattern_2-Фабричный метод.csproj": {
+    "E:\\1_GITHUB\\C-Sharp-Patterns\\Pattern_1-Стратегия\\Pattern_2-Шаблонный метод\\Pattern_2-Фабричный метод.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\PATTERNS\\C-Sharp-Patterns\\Pattern_1-Стратегия\\Pattern_2-Шаблонный метод\\Pattern_2-Фабричный метод.csproj",
+        "projectUniqueName": "E:\\1_GITHUB\\C-Sharp-Patterns\\Pattern_1-Стратегия\\Pattern_2-Шаблонный метод\\Pattern_2-Фабричный метод.csproj",
         "projectName": "Pattern_2-Фабричный метод",
-        "projectPath": "G:\\PATTERNS\\C-Sharp-Patterns\\Pattern_1-Стратегия\\Pattern_2-Шаблонный метод\\Pattern_2-Фабричный метод.csproj",
-        "packagesPath": "C:\\Users\\Николай\\.nuget\\packages\\",
-        "outputPath": "G:\\PATTERNS\\C-Sharp-Patterns\\Pattern_1-Стратегия\\Pattern_2-Шаблонный метод\\obj\\",
+        "projectPath": "E:\\1_GITHUB\\C-Sharp-Patterns\\Pattern_1-Стратегия\\Pattern_2-Шаблонный метод\\Pattern_2-Фабричный метод.csproj",
+        "packagesPath": "C:\\Users\\ROTA\\.nuget\\packages\\",
+        "outputPath": "E:\\1_GITHUB\\C-Sharp-Patterns\\Pattern_1-Стратегия\\Pattern_2-Шаблонный метод\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Николай\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ROTA\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -92,8 +90,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "G:\\PATTERNS\\C-Sharp-Patterns\\Pattern_1-Стратегия\\Pattern_1-Стратегия\\Pattern_1-Стратегия.csproj": {
-                "projectPath": "G:\\PATTERNS\\C-Sharp-Patterns\\Pattern_1-Стратегия\\Pattern_1-Стратегия\\Pattern_1-Стратегия.csproj"
+              "E:\\1_GITHUB\\C-Sharp-Patterns\\Pattern_1-Стратегия\\Pattern_1-Стратегия\\Pattern_1-Стратегия.csproj": {
+                "projectPath": "E:\\1_GITHUB\\C-Sharp-Patterns\\Pattern_1-Стратегия\\Pattern_1-Стратегия\\Pattern_1-Стратегия.csproj"
               }
             }
           }

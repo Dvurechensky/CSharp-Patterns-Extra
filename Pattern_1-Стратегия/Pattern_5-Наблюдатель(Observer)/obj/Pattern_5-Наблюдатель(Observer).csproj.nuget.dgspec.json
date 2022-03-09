@@ -1,24 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "G:\\PATTERNS\\C-Sharp-Patterns\\Pattern_1-Стратегия\\Pattern_5-Наблюдатель(Observer)\\Pattern_5-Наблюдатель(Observer).csproj": {}
+    "E:\\1_GITHUB\\C-Sharp-Patterns\\Pattern_1-Стратегия\\Pattern_5-Наблюдатель(Observer)\\Pattern_5-Наблюдатель(Observer).csproj": {}
   },
   "projects": {
-    "G:\\PATTERNS\\C-Sharp-Patterns\\Pattern_1-Стратегия\\Pattern_5-Наблюдатель(Observer)\\Pattern_5-Наблюдатель(Observer).csproj": {
+    "E:\\1_GITHUB\\C-Sharp-Patterns\\Pattern_1-Стратегия\\Pattern_5-Наблюдатель(Observer)\\Pattern_5-Наблюдатель(Observer).csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\PATTERNS\\C-Sharp-Patterns\\Pattern_1-Стратегия\\Pattern_5-Наблюдатель(Observer)\\Pattern_5-Наблюдатель(Observer).csproj",
+        "projectUniqueName": "E:\\1_GITHUB\\C-Sharp-Patterns\\Pattern_1-Стратегия\\Pattern_5-Наблюдатель(Observer)\\Pattern_5-Наблюдатель(Observer).csproj",
         "projectName": "Pattern_5-Наблюдатель(Observer)",
-        "projectPath": "G:\\PATTERNS\\C-Sharp-Patterns\\Pattern_1-Стратегия\\Pattern_5-Наблюдатель(Observer)\\Pattern_5-Наблюдатель(Observer).csproj",
-        "packagesPath": "C:\\Users\\Николай\\.nuget\\packages\\",
-        "outputPath": "G:\\PATTERNS\\C-Sharp-Patterns\\Pattern_1-Стратегия\\Pattern_5-Наблюдатель(Observer)\\obj\\",
+        "projectPath": "E:\\1_GITHUB\\C-Sharp-Patterns\\Pattern_1-Стратегия\\Pattern_5-Наблюдатель(Observer)\\Pattern_5-Наблюдатель(Observer).csproj",
+        "packagesPath": "C:\\Users\\ROTA\\.nuget\\packages\\",
+        "outputPath": "E:\\1_GITHUB\\C-Sharp-Patterns\\Pattern_1-Стратегия\\Pattern_5-Наблюдатель(Observer)\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Николай\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ROTA\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
