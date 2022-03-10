@@ -1,0 +1,15 @@
+E:\1_GITHUB\C-Sharp-Patterns\Pattern_1-Стратегия\Pattern_2-Абстрактная фабрика(Abstract Factory)\bin\Debug\net6.0\Pattern_2-Абстрактная фабрика(Abstract Factory).exe
+E:\1_GITHUB\C-Sharp-Patterns\Pattern_1-Стратегия\Pattern_2-Абстрактная фабрика(Abstract Factory)\bin\Debug\net6.0\Pattern_2-Абстрактная фабрика(Abstract Factory).deps.json
+E:\1_GITHUB\C-Sharp-Patterns\Pattern_1-Стратегия\Pattern_2-Абстрактная фабрика(Abstract Factory)\bin\Debug\net6.0\Pattern_2-Абстрактная фабрика(Abstract Factory).runtimeconfig.json
+E:\1_GITHUB\C-Sharp-Patterns\Pattern_1-Стратегия\Pattern_2-Абстрактная фабрика(Abstract Factory)\bin\Debug\net6.0\Pattern_2-Абстрактная фабрика(Abstract Factory).dll
+E:\1_GITHUB\C-Sharp-Patterns\Pattern_1-Стратегия\Pattern_2-Абстрактная фабрика(Abstract Factory)\bin\Debug\net6.0\Pattern_2-Абстрактная фабрика(Abstract Factory).pdb
+E:\1_GITHUB\C-Sharp-Patterns\Pattern_1-Стратегия\Pattern_2-Абстрактная фабрика(Abstract Factory)\obj\Debug\net6.0\Pattern_2-Абстрактная фабрика(Abstract Factory).csproj.AssemblyReference.cache
+E:\1_GITHUB\C-Sharp-Patterns\Pattern_1-Стратегия\Pattern_2-Абстрактная фабрика(Abstract Factory)\obj\Debug\net6.0\Pattern_2-Абстрактная фабрика(Abstract Factory).GeneratedMSBuildEditorConfig.editorconfig
+E:\1_GITHUB\C-Sharp-Patterns\Pattern_1-Стратегия\Pattern_2-Абстрактная фабрика(Abstract Factory)\obj\Debug\net6.0\Pattern_2-Абстрактная фабрика(Abstract Factory).AssemblyInfoInputs.cache
+E:\1_GITHUB\C-Sharp-Patterns\Pattern_1-Стратегия\Pattern_2-Абстрактная фабрика(Abstract Factory)\obj\Debug\net6.0\Pattern_2-Абстрактная фабрика(Abstract Factory).AssemblyInfo.cs
+E:\1_GITHUB\C-Sharp-Patterns\Pattern_1-Стратегия\Pattern_2-Абстрактная фабрика(Abstract Factory)\obj\Debug\net6.0\Pattern_2-Абстрактная фабрика(Abstract Factory).csproj.CoreCompileInputs.cache
+E:\1_GITHUB\C-Sharp-Patterns\Pattern_1-Стратегия\Pattern_2-Абстрактная фабрика(Abstract Factory)\obj\Debug\net6.0\Pattern_2-Абстрактная фабрика(Abstract Factory).dll
+E:\1_GITHUB\C-Sharp-Patterns\Pattern_1-Стратегия\Pattern_2-Абстрактная фабрика(Abstract Factory)\obj\Debug\net6.0\refint\Pattern_2-Абстрактная фабрика(Abstract Factory).dll
+E:\1_GITHUB\C-Sharp-Patterns\Pattern_1-Стратегия\Pattern_2-Абстрактная фабрика(Abstract Factory)\obj\Debug\net6.0\Pattern_2-Абстрактная фабрика(Abstract Factory).pdb
+E:\1_GITHUB\C-Sharp-Patterns\Pattern_1-Стратегия\Pattern_2-Абстрактная фабрика(Abstract Factory)\obj\Debug\net6.0\Pattern_2-Абстрактная фабрика(Abstract Factory).genruntimeconfig.cache
+E:\1_GITHUB\C-Sharp-Patterns\Pattern_1-Стратегия\Pattern_2-Абстрактная фабрика(Abstract Factory)\obj\Debug\net6.0\ref\Pattern_2-Абстрактная фабрика(Abstract Factory).dll
