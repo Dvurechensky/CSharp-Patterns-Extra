@@ -971,9 +971,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\1_GITHUB\\C-Sharp-Patterns\\Pattern_1-Стратегия\\Pattern_2-Шаблонный метод\\Pattern_2-Фабричный метод.csproj",
-      "projectName": "Pattern_2-Фабричный метод",
-      "projectPath": "E:\\1_GITHUB\\C-Sharp-Patterns\\Pattern_1-Стратегия\\Pattern_2-Шаблонный метод\\Pattern_2-Фабричный метод.csproj",
+      "projectUniqueName": "E:\\1_GITHUB\\C-Sharp-Patterns\\Pattern_1-Стратегия\\Pattern_2-Шаблонный метод\\Pattern_3-Фабричный метод.csproj",
+      "projectName": "Pattern_3-Фабричный метод",
+      "projectPath": "E:\\1_GITHUB\\C-Sharp-Patterns\\Pattern_1-Стратегия\\Pattern_2-Шаблонный метод\\Pattern_3-Фабричный метод.csproj",
       "packagesPath": "C:\\Users\\ROTA\\.nuget\\packages\\",
       "outputPath": "E:\\1_GITHUB\\C-Sharp-Patterns\\Pattern_1-Стратегия\\Pattern_2-Шаблонный метод\\obj\\",
       "projectStyle": "PackageReference",

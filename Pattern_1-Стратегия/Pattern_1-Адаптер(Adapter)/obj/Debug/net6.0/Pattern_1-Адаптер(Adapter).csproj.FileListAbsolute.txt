@@ -1,0 +1,15 @@
+E:\1_GITHUB\C-Sharp-Patterns\Pattern_1-Стратегия\Pattern_1-Адаптер(Adapter)\bin\Debug\net6.0\Pattern_1-Адаптер(Adapter).exe
+E:\1_GITHUB\C-Sharp-Patterns\Pattern_1-Стратегия\Pattern_1-Адаптер(Adapter)\bin\Debug\net6.0\Pattern_1-Адаптер(Adapter).deps.json
+E:\1_GITHUB\C-Sharp-Patterns\Pattern_1-Стратегия\Pattern_1-Адаптер(Adapter)\bin\Debug\net6.0\Pattern_1-Адаптер(Adapter).runtimeconfig.json
+E:\1_GITHUB\C-Sharp-Patterns\Pattern_1-Стратегия\Pattern_1-Адаптер(Adapter)\bin\Debug\net6.0\Pattern_1-Адаптер(Adapter).dll
+E:\1_GITHUB\C-Sharp-Patterns\Pattern_1-Стратегия\Pattern_1-Адаптер(Adapter)\bin\Debug\net6.0\Pattern_1-Адаптер(Adapter).pdb
+E:\1_GITHUB\C-Sharp-Patterns\Pattern_1-Стратегия\Pattern_1-Адаптер(Adapter)\obj\Debug\net6.0\Pattern_1-Адаптер(Adapter).csproj.AssemblyReference.cache
+E:\1_GITHUB\C-Sharp-Patterns\Pattern_1-Стратегия\Pattern_1-Адаптер(Adapter)\obj\Debug\net6.0\Pattern_1-Адаптер(Adapter).GeneratedMSBuildEditorConfig.editorconfig
+E:\1_GITHUB\C-Sharp-Patterns\Pattern_1-Стратегия\Pattern_1-Адаптер(Adapter)\obj\Debug\net6.0\Pattern_1-Адаптер(Adapter).AssemblyInfoInputs.cache
+E:\1_GITHUB\C-Sharp-Patterns\Pattern_1-Стратегия\Pattern_1-Адаптер(Adapter)\obj\Debug\net6.0\Pattern_1-Адаптер(Adapter).AssemblyInfo.cs
+E:\1_GITHUB\C-Sharp-Patterns\Pattern_1-Стратегия\Pattern_1-Адаптер(Adapter)\obj\Debug\net6.0\Pattern_1-Адаптер(Adapter).csproj.CoreCompileInputs.cache
+E:\1_GITHUB\C-Sharp-Patterns\Pattern_1-Стратегия\Pattern_1-Адаптер(Adapter)\obj\Debug\net6.0\Pattern_1-Адаптер(Adapter).dll
+E:\1_GITHUB\C-Sharp-Patterns\Pattern_1-Стратегия\Pattern_1-Адаптер(Adapter)\obj\Debug\net6.0\refint\Pattern_1-Адаптер(Adapter).dll
+E:\1_GITHUB\C-Sharp-Patterns\Pattern_1-Стратегия\Pattern_1-Адаптер(Adapter)\obj\Debug\net6.0\Pattern_1-Адаптер(Adapter).pdb
+E:\1_GITHUB\C-Sharp-Patterns\Pattern_1-Стратегия\Pattern_1-Адаптер(Adapter)\obj\Debug\net6.0\Pattern_1-Адаптер(Adapter).genruntimeconfig.cache
+E:\1_GITHUB\C-Sharp-Patterns\Pattern_1-Стратегия\Pattern_1-Адаптер(Adapter)\obj\Debug\net6.0\ref\Pattern_1-Адаптер(Adapter).dll
