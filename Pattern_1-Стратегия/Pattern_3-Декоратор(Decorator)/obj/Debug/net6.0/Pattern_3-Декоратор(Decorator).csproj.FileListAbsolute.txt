@@ -1,0 +1,15 @@
+E:\1_GITHUB\C-Sharp-Patterns\Pattern_1-Стратегия\Pattern_3-Декоратор(Decorator)\bin\Debug\net6.0\Pattern_3-Декоратор(Decorator).exe
+E:\1_GITHUB\C-Sharp-Patterns\Pattern_1-Стратегия\Pattern_3-Декоратор(Decorator)\bin\Debug\net6.0\Pattern_3-Декоратор(Decorator).deps.json
+E:\1_GITHUB\C-Sharp-Patterns\Pattern_1-Стратегия\Pattern_3-Декоратор(Decorator)\bin\Debug\net6.0\Pattern_3-Декоратор(Decorator).runtimeconfig.json
+E:\1_GITHUB\C-Sharp-Patterns\Pattern_1-Стратегия\Pattern_3-Декоратор(Decorator)\bin\Debug\net6.0\Pattern_3-Декоратор(Decorator).dll
+E:\1_GITHUB\C-Sharp-Patterns\Pattern_1-Стратегия\Pattern_3-Декоратор(Decorator)\bin\Debug\net6.0\Pattern_3-Декоратор(Decorator).pdb
+E:\1_GITHUB\C-Sharp-Patterns\Pattern_1-Стратегия\Pattern_3-Декоратор(Decorator)\obj\Debug\net6.0\Pattern_3-Декоратор(Decorator).csproj.AssemblyReference.cache
+E:\1_GITHUB\C-Sharp-Patterns\Pattern_1-Стратегия\Pattern_3-Декоратор(Decorator)\obj\Debug\net6.0\Pattern_3-Декоратор(Decorator).GeneratedMSBuildEditorConfig.editorconfig
+E:\1_GITHUB\C-Sharp-Patterns\Pattern_1-Стратегия\Pattern_3-Декоратор(Decorator)\obj\Debug\net6.0\Pattern_3-Декоратор(Decorator).AssemblyInfoInputs.cache
+E:\1_GITHUB\C-Sharp-Patterns\Pattern_1-Стратегия\Pattern_3-Декоратор(Decorator)\obj\Debug\net6.0\Pattern_3-Декоратор(Decorator).AssemblyInfo.cs
+E:\1_GITHUB\C-Sharp-Patterns\Pattern_1-Стратегия\Pattern_3-Декоратор(Decorator)\obj\Debug\net6.0\Pattern_3-Декоратор(Decorator).csproj.CoreCompileInputs.cache
+E:\1_GITHUB\C-Sharp-Patterns\Pattern_1-Стратегия\Pattern_3-Декоратор(Decorator)\obj\Debug\net6.0\Pattern_3-Декоратор(Decorator).dll
+E:\1_GITHUB\C-Sharp-Patterns\Pattern_1-Стратегия\Pattern_3-Декоратор(Decorator)\obj\Debug\net6.0\refint\Pattern_3-Декоратор(Decorator).dll
+E:\1_GITHUB\C-Sharp-Patterns\Pattern_1-Стратегия\Pattern_3-Декоратор(Decorator)\obj\Debug\net6.0\Pattern_3-Декоратор(Decorator).pdb
+E:\1_GITHUB\C-Sharp-Patterns\Pattern_1-Стратегия\Pattern_3-Декоратор(Decorator)\obj\Debug\net6.0\Pattern_3-Декоратор(Decorator).genruntimeconfig.cache
+E:\1_GITHUB\C-Sharp-Patterns\Pattern_1-Стратегия\Pattern_3-Декоратор(Decorator)\obj\Debug\net6.0\ref\Pattern_3-Декоратор(Decorator).dll
