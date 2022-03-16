@@ -42,6 +42,78 @@ class TextBlock : UIElement
     public TextBlock(string name = "textBlock") : base(name) { }
 }
 
+//Пример отправки писем группе адресатов
+interface IEMail
+{
+    void Send();
+    string Name { get; set; }
+}
+
+class Group : IEMail
+{
+    public Group(params IEMail[] es) => Append(es);
+
+    public List<IEMail> eMails = new();
+
+    public string Name { get; set; }
+
+    public void Append(params IEMail[] es) {
+        foreach (var item in es) eMails.Add(item);
+    }
+
+    public void Send() {
+        foreach(var item in eMails) item.Send();
+    }
+}
+
+class EMail : IEMail
+{
+    public string Name { get; set; }
+
+    public void Send() => Console.WriteLine($"Send {Name}");
+}
+
+//Генератор файловой системы
+abstract class IFileSystem
+{
+    protected virtual IFileSystem AddItem(IFileSystem element) => this;
+    public abstract void PrintInfo(string w = "");
+    public string Title { get; set; }
+}
+
+class Document : IFileSystem
+{
+    public override void PrintInfo(string w = "")
+    {
+        Console.WriteLine($"{w}{Title}");
+    }
+}
+
+class Folder : IFileSystem
+{
+    private readonly List<IFileSystem> fileSystem;
+    public Folder() => fileSystem = new();
+
+    public IFileSystem AddElement(params IFileSystem[] element)
+    {
+        foreach (var item in element) AddItem(item);
+        return this;
+    }
+
+    public override void PrintInfo(string w = "")
+    {
+        Console.WriteLine($"{w}{Title}");
+        foreach (var item in fileSystem) item.PrintInfo(w);
+    }
+
+    protected override IFileSystem AddItem(IFileSystem element)
+    {
+        fileSystem.Add(element);
+        return this;
+    }
+}
+
+
 public class Program
 {
     public static void Main(string[] argv)
@@ -60,5 +132,29 @@ public class Program
         panel1.Children.Add(tb2);
 
         Console.WriteLine(panel1);
+
+        //2
+        EMail c = new EMail() { Name = "nik" };
+        c.Send();
+        EMail r = new EMail() { Name = "nikr" };
+        r.Send();
+        EMail u = new EMail() { Name = "niku" };
+        u.Send();
+        EMail d = new EMail() { Name = "nikd" };
+        d.Send();
+
+        Group cr = new Group(c, r, u);
+        cr.Send();
+        
+        //3
+        new Folder() { Title = "C:/"}
+            .AddElement(new Folder() { Title = "Windows/"}
+                .AddElement(new Folder() { Title = "System32/" }
+                    .AddElement(new Document() { Title = "system.xml"}),
+                    new Folder() { Title = "Driver/"}
+                        .AddElement(new Folder() { Title = "etc/"}
+                            .AddElement(new Document() { Title = "jp.json"}),
+                            new Folder() { Title = "etc2"})))
+            .PrintInfo();
     }
 }
