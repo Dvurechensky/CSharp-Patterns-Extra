@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4GWHBneWlDfBas139LXXF1CnZxcrDCJi61BpcmR3xLqySzny5SiLyWhjl3e/aYq/KFEXw3rpXg4CvnOhyv7YHw==",
+  "dgSpecHash": "rFSndeYxEFnAEpSkeEUnQKDrKLiUwjRPf20k/BAHNdftWkzMks7rqQ/IFF3v6Fp1sygaEfTYWz6Np6hJVG/LSg==",
   "success": true,
-  "projectFilePath": "E:\\1_GITHUB\\C-Sharp-Patterns\\Pattern_1-Стратегия\\Pattern_6-Посетитель(Visitor)\\Pattern_6-Посетитель(Visitor).csproj",
+  "projectFilePath": "G:\\PATTERNS\\C-Sharp-Patterns\\Pattern_1-Стратегия\\Pattern_6-Посетитель(Visitor)\\Pattern_6-Посетитель(Visitor).csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

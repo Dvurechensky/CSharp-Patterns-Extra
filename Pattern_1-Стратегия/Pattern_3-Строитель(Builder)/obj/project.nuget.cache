@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "u+fAdjntzg0LQ5GnnHGUJB3ZunGThp2h94rUOCIyf0eKJRRNMOAzUKUuxaFiK2RKHE7Th78qidc+/aC8Tk5NBg==",
+  "dgSpecHash": "xNwhqlb2YiDMg8OYSPN7iqRUisyq9OLaurGBoBrCjzlOeKCLwEjNgNjUh27utHiwO5d0t0IbzyU3wjmw6myMZQ==",
   "success": true,
-  "projectFilePath": "E:\\1_GITHUB\\C-Sharp-Patterns\\Pattern_1-Стратегия\\Pattern_3-Строитель(Builder)\\Pattern_4-Строитель(Builder).csproj",
+  "projectFilePath": "G:\\PATTERNS\\C-Sharp-Patterns\\Pattern_1-Стратегия\\Pattern_3-Строитель(Builder)\\Pattern_4-Строитель(Builder).csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

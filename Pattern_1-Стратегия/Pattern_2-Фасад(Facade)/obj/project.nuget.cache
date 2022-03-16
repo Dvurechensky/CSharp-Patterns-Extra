@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "K4H5GTnhHM37nhI7x27R7pdxft7N52tRgutV4WXAomtY0OHC8UY1PY+xCRmOwlNxFrGSRKVRharXepO6Apf5Cg==",
+  "dgSpecHash": "PVL+r1T8UsmyN8UAeJ105WmMQO8NlZ5XVESt0h1IUxM5HUN1v8AAQVn1LmWpKLM8+y6lzsC0zOASFkOqwoThrQ==",
   "success": true,
-  "projectFilePath": "E:\\1_GITHUB\\C-Sharp-Patterns\\Pattern_1-Стратегия\\Pattern_2-Фасад(Facade)\\Pattern_2-Фасад(Facade).csproj",
+  "projectFilePath": "G:\\PATTERNS\\C-Sharp-Patterns\\Pattern_1-Стратегия\\Pattern_2-Фасад(Facade)\\Pattern_2-Фасад(Facade).csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

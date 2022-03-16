@@ -1,23 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "E:\\1_GITHUB\\C-Sharp-Patterns\\Pattern_1-Стратегия\\Pattern_3-Посредник(Mediator)\\Pattern_3-Посредник(Mediator).csproj": {}
+    "G:\\PATTERNS\\C-Sharp-Patterns\\Pattern_1-Стратегия\\Pattern_3-Посредник(Mediator)\\Pattern_3-Посредник(Mediator).csproj": {}
   },
   "projects": {
-    "E:\\1_GITHUB\\C-Sharp-Patterns\\Pattern_1-Стратегия\\Pattern_3-Посредник(Mediator)\\Pattern_3-Посредник(Mediator).csproj": {
+    "G:\\PATTERNS\\C-Sharp-Patterns\\Pattern_1-Стратегия\\Pattern_3-Посредник(Mediator)\\Pattern_3-Посредник(Mediator).csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\1_GITHUB\\C-Sharp-Patterns\\Pattern_1-Стратегия\\Pattern_3-Посредник(Mediator)\\Pattern_3-Посредник(Mediator).csproj",
+        "projectUniqueName": "G:\\PATTERNS\\C-Sharp-Patterns\\Pattern_1-Стратегия\\Pattern_3-Посредник(Mediator)\\Pattern_3-Посредник(Mediator).csproj",
         "projectName": "Pattern_3-Посредник(Mediator)",
-        "projectPath": "E:\\1_GITHUB\\C-Sharp-Patterns\\Pattern_1-Стратегия\\Pattern_3-Посредник(Mediator)\\Pattern_3-Посредник(Mediator).csproj",
-        "packagesPath": "C:\\Users\\ROTA\\.nuget\\packages\\",
-        "outputPath": "E:\\1_GITHUB\\C-Sharp-Patterns\\Pattern_1-Стратегия\\Pattern_3-Посредник(Mediator)\\obj\\",
+        "projectPath": "G:\\PATTERNS\\C-Sharp-Patterns\\Pattern_1-Стратегия\\Pattern_3-Посредник(Mediator)\\Pattern_3-Посредник(Mediator).csproj",
+        "packagesPath": "C:\\Users\\Николай\\.nuget\\packages\\",
+        "outputPath": "G:\\PATTERNS\\C-Sharp-Patterns\\Pattern_1-Стратегия\\Pattern_3-Посредник(Mediator)\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\ROTA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Николай\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
