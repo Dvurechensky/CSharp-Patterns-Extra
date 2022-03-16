@@ -37,9 +37,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pattern_1-Адаптер(Ad
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pattern_2-Фасад(Facade)", "Pattern_2-Фасад(Facade)\Pattern_2-Фасад(Facade).csproj", "{B00B3EA6-B1E0-48E0-A42A-FE52C73BDAB3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pattern_3-Декоратор(Decorator)", "Pattern_3-Декоратор(Decorator)\Pattern_3-Декоратор(Decorator).csproj", "{0234C795-F6EB-4CF0-BCC0-B4B97C789B12}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pattern_3-Декоратор(Decorator)", "Pattern_3-Декоратор(Decorator)\Pattern_3-Декоратор(Decorator).csproj", "{0234C795-F6EB-4CF0-BCC0-B4B97C789B12}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pattern_4-Компоновщик(Composite)", "Pattern_4-Компоновщик(Composite)\Pattern_4-Компоновщик(Composite).csproj", "{0B5DCEE7-F54E-49AB-A63F-DFE0CBFF6AC9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pattern_4-Компоновщик(Composite)", "Pattern_4-Компоновщик(Composite)\Pattern_4-Компоновщик(Composite).csproj", "{0B5DCEE7-F54E-49AB-A63F-DFE0CBFF6AC9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pattern_5-Заместитель(Proxy)", "Pattern_5-Заместитель(Proxy)\Pattern_5-Заместитель(Proxy).csproj", "{8288DD61-F2B0-4B95-B8CE-04E920B8CAD0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -111,6 +113,10 @@ Global
 		{0B5DCEE7-F54E-49AB-A63F-DFE0CBFF6AC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0B5DCEE7-F54E-49AB-A63F-DFE0CBFF6AC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0B5DCEE7-F54E-49AB-A63F-DFE0CBFF6AC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8288DD61-F2B0-4B95-B8CE-04E920B8CAD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8288DD61-F2B0-4B95-B8CE-04E920B8CAD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8288DD61-F2B0-4B95-B8CE-04E920B8CAD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8288DD61-F2B0-4B95-B8CE-04E920B8CAD0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -132,6 +138,7 @@ Global
 		{B00B3EA6-B1E0-48E0-A42A-FE52C73BDAB3} = {CFD4A239-FAAB-4C2B-A55C-1051E994069A}
 		{0234C795-F6EB-4CF0-BCC0-B4B97C789B12} = {CFD4A239-FAAB-4C2B-A55C-1051E994069A}
 		{0B5DCEE7-F54E-49AB-A63F-DFE0CBFF6AC9} = {CFD4A239-FAAB-4C2B-A55C-1051E994069A}
+		{8288DD61-F2B0-4B95-B8CE-04E920B8CAD0} = {CFD4A239-FAAB-4C2B-A55C-1051E994069A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {7EAC518E-F875-4F24-AB38-B1F72CB23C93}
