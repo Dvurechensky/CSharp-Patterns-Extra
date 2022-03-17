@@ -41,11 +41,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pattern_3-Декорато�
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pattern_4-Компоновщик(Composite)", "Pattern_4-Компоновщик(Composite)\Pattern_4-Компоновщик(Composite).csproj", "{0B5DCEE7-F54E-49AB-A63F-DFE0CBFF6AC9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pattern_5-Заместитель(Proxy)", "Pattern_5-Заместитель(Proxy)\Pattern_5-Заместитель(Proxy).csproj", "{8288DD61-F2B0-4B95-B8CE-04E920B8CAD0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pattern_5-Заместитель(Proxy)", "Pattern_5-Заместитель(Proxy)\Pattern_5-Заместитель(Proxy).csproj", "{8288DD61-F2B0-4B95-B8CE-04E920B8CAD0}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Принципы проектирования", "Принципы проектирования", "{2EC9B0B6-3459-4D1B-90BD-786CF9C23342}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1_Принцип единственной обязанности", "1_Принцип единственной обязанности\1_Принцип единственной обязанности.csproj", "{AE68E715-EE25-4A74-9BB7-715F210487F5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1_Принцип единственной обязанности", "1_Принцип единственной обязанности\1_Принцип единственной обязанности.csproj", "{AE68E715-EE25-4A74-9BB7-715F210487F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2_Принцип открытости, закрытости", "2_Принцип открытости, закрытости\2_Принцип открытости, закрытости.csproj", "{70256CD9-4C94-486C-8EB5-628ED4850CA0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -125,6 +127,10 @@ Global
 		{AE68E715-EE25-4A74-9BB7-715F210487F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AE68E715-EE25-4A74-9BB7-715F210487F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AE68E715-EE25-4A74-9BB7-715F210487F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70256CD9-4C94-486C-8EB5-628ED4850CA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70256CD9-4C94-486C-8EB5-628ED4850CA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70256CD9-4C94-486C-8EB5-628ED4850CA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70256CD9-4C94-486C-8EB5-628ED4850CA0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -148,6 +154,7 @@ Global
 		{0B5DCEE7-F54E-49AB-A63F-DFE0CBFF6AC9} = {CFD4A239-FAAB-4C2B-A55C-1051E994069A}
 		{8288DD61-F2B0-4B95-B8CE-04E920B8CAD0} = {CFD4A239-FAAB-4C2B-A55C-1051E994069A}
 		{AE68E715-EE25-4A74-9BB7-715F210487F5} = {2EC9B0B6-3459-4D1B-90BD-786CF9C23342}
+		{70256CD9-4C94-486C-8EB5-628ED4850CA0} = {2EC9B0B6-3459-4D1B-90BD-786CF9C23342}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {7EAC518E-F875-4F24-AB38-B1F72CB23C93}
