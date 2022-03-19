@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "V+wxqG5/qx/uruJp5zTD/QXMRgF5M9ENyq43kt7R7zxgd0OX64owgke1IFCBwK6Wca5/Ag0ESCsER2dLrkRj+A==",
+  "dgSpecHash": "DzpKQSwdeydMGnX6e26quOFAM2oKfxbyH98ZPKy2h58RJeqPCFvQiOKIcJ4wZ+JVHC8N1/KfEzUnOQp/0GsL9A==",
   "success": true,
-  "projectFilePath": "E:\\1_GITHUB\\C-Sharp-Patterns\\Pattern_1-Стратегия\\1_Принцип единственной обязанности\\1_Принцип единственной обязанности.csproj",
+  "projectFilePath": "G:\\PATTERNS\\C-Sharp-Patterns\\Pattern_1-Стратегия\\1_Принцип единственной обязанности\\1_Принцип единственной обязанности.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

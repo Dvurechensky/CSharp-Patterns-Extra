@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CEd9qHkbTOy26PCASba2yEuuNCvRgVw5zDM2qb23U0LEPWiCRych58pbDcwJ3mf73VbCgylyjmf4mQeDrGK4Sg==",
+  "dgSpecHash": "yOt093uuldZyVi9bWjvSi8WVsr6Ha3hno7HV/ub9OpRhtDl2U2kB0fbRrgpkVv+R2aStPzw1A/cM2Pa3/DYNBQ==",
   "success": true,
-  "projectFilePath": "E:\\1_GITHUB\\C-Sharp-Patterns\\Pattern_1-Стратегия\\Pattern_9-Цепочка обязанностей\\Pattern_9-Цепочка обязанностей.csproj",
+  "projectFilePath": "G:\\PATTERNS\\C-Sharp-Patterns\\Pattern_1-Стратегия\\Pattern_9-Цепочка обязанностей\\Pattern_9-Цепочка обязанностей.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

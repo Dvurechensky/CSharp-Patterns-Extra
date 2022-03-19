@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "krYPN56xEyq0rqGIyQBOqXWurPXRvPw7hXCEuwgjMbJrfM0fgofuHw9c1Efj7gYS675hhTAF2bwQY8RekJX7Qw==",
+  "dgSpecHash": "fpzjRr1RMElVqCT5VzuM3GxbpUtoDxZo3Btp8VT0vDSBKo39Ao29NCXmLQPMpCXbxk1MRZcTZjGY9jMcE0I5iA==",
   "success": true,
-  "projectFilePath": "E:\\1_GITHUB\\C-Sharp-Patterns\\Pattern_1-Стратегия\\Pattern_5-Заместитель(Proxy)\\Pattern_5-Заместитель(Proxy).csproj",
+  "projectFilePath": "G:\\PATTERNS\\C-Sharp-Patterns\\Pattern_1-Стратегия\\Pattern_5-Заместитель(Proxy)\\Pattern_5-Заместитель(Proxy).csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

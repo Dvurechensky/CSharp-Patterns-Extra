@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ahRFB188Od8KuEsM9QrIbdNHeLMLxAYpszZT4lmktfmj+9Gw1xUJG4IztGBUnbIQZwzBGx1ZvLeWCB0wefayHQ==",
+  "dgSpecHash": "ZW2H2T72UHGxGgigkViqzI2ugag39ML1EOCWa0fKLf46RveEfkeNtim3mZ6diytNUsPCKYpuoPwHimAHD9wHsQ==",
   "success": true,
-  "projectFilePath": "E:\\1_GITHUB\\C-Sharp-Patterns\\Pattern_1-Стратегия\\Pattern_1-Синглтон(Singleton)\\Pattern_1-Синглтон(Singleton).csproj",
+  "projectFilePath": "G:\\PATTERNS\\C-Sharp-Patterns\\Pattern_1-Стратегия\\Pattern_1-Синглтон(Singleton)\\Pattern_1-Синглтон(Singleton).csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
