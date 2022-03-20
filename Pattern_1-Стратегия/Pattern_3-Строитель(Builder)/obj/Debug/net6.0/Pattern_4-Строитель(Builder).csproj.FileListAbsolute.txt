@@ -1,0 +1,15 @@
+G:\PATTERNS\C-Sharp-Patterns\Pattern_1-Стратегия\Pattern_3-Строитель(Builder)\bin\Debug\net6.0\Pattern_4-Строитель(Builder).exe
+G:\PATTERNS\C-Sharp-Patterns\Pattern_1-Стратегия\Pattern_3-Строитель(Builder)\bin\Debug\net6.0\Pattern_4-Строитель(Builder).deps.json
+G:\PATTERNS\C-Sharp-Patterns\Pattern_1-Стратегия\Pattern_3-Строитель(Builder)\bin\Debug\net6.0\Pattern_4-Строитель(Builder).runtimeconfig.json
+G:\PATTERNS\C-Sharp-Patterns\Pattern_1-Стратегия\Pattern_3-Строитель(Builder)\bin\Debug\net6.0\Pattern_4-Строитель(Builder).dll
+G:\PATTERNS\C-Sharp-Patterns\Pattern_1-Стратегия\Pattern_3-Строитель(Builder)\bin\Debug\net6.0\Pattern_4-Строитель(Builder).pdb
+G:\PATTERNS\C-Sharp-Patterns\Pattern_1-Стратегия\Pattern_3-Строитель(Builder)\obj\Debug\net6.0\Pattern_4-Строитель(Builder).csproj.AssemblyReference.cache
+G:\PATTERNS\C-Sharp-Patterns\Pattern_1-Стратегия\Pattern_3-Строитель(Builder)\obj\Debug\net6.0\Pattern_4-Строитель(Builder).GeneratedMSBuildEditorConfig.editorconfig
+G:\PATTERNS\C-Sharp-Patterns\Pattern_1-Стратегия\Pattern_3-Строитель(Builder)\obj\Debug\net6.0\Pattern_4-Строитель(Builder).AssemblyInfoInputs.cache
+G:\PATTERNS\C-Sharp-Patterns\Pattern_1-Стратегия\Pattern_3-Строитель(Builder)\obj\Debug\net6.0\Pattern_4-Строитель(Builder).AssemblyInfo.cs
+G:\PATTERNS\C-Sharp-Patterns\Pattern_1-Стратегия\Pattern_3-Строитель(Builder)\obj\Debug\net6.0\Pattern_4-Строитель(Builder).csproj.CoreCompileInputs.cache
+G:\PATTERNS\C-Sharp-Patterns\Pattern_1-Стратегия\Pattern_3-Строитель(Builder)\obj\Debug\net6.0\Pattern_4-Строитель(Builder).dll
+G:\PATTERNS\C-Sharp-Patterns\Pattern_1-Стратегия\Pattern_3-Строитель(Builder)\obj\Debug\net6.0\refint\Pattern_4-Строитель(Builder).dll
+G:\PATTERNS\C-Sharp-Patterns\Pattern_1-Стратегия\Pattern_3-Строитель(Builder)\obj\Debug\net6.0\Pattern_4-Строитель(Builder).pdb
+G:\PATTERNS\C-Sharp-Patterns\Pattern_1-Стратегия\Pattern_3-Строитель(Builder)\obj\Debug\net6.0\Pattern_4-Строитель(Builder).genruntimeconfig.cache
+G:\PATTERNS\C-Sharp-Patterns\Pattern_1-Стратегия\Pattern_3-Строитель(Builder)\obj\Debug\net6.0\ref\Pattern_4-Строитель(Builder).dll

@@ -1,0 +1,15 @@
+G:\PATTERNS\C-Sharp-Patterns\Pattern_1-Стратегия\2_Принцип открытости, закрытости\bin\Debug\net6.0\2_Принцип открытости, закрытости.exe
+G:\PATTERNS\C-Sharp-Patterns\Pattern_1-Стратегия\2_Принцип открытости, закрытости\bin\Debug\net6.0\2_Принцип открытости, закрытости.deps.json
+G:\PATTERNS\C-Sharp-Patterns\Pattern_1-Стратегия\2_Принцип открытости, закрытости\bin\Debug\net6.0\2_Принцип открытости, закрытости.runtimeconfig.json
+G:\PATTERNS\C-Sharp-Patterns\Pattern_1-Стратегия\2_Принцип открытости, закрытости\bin\Debug\net6.0\2_Принцип открытости, закрытости.dll
+G:\PATTERNS\C-Sharp-Patterns\Pattern_1-Стратегия\2_Принцип открытости, закрытости\bin\Debug\net6.0\2_Принцип открытости, закрытости.pdb
+G:\PATTERNS\C-Sharp-Patterns\Pattern_1-Стратегия\2_Принцип открытости, закрытости\obj\Debug\net6.0\2_Принцип открытости, закрытости.csproj.AssemblyReference.cache
+G:\PATTERNS\C-Sharp-Patterns\Pattern_1-Стратегия\2_Принцип открытости, закрытости\obj\Debug\net6.0\2_Принцип открытости, закрытости.GeneratedMSBuildEditorConfig.editorconfig
+G:\PATTERNS\C-Sharp-Patterns\Pattern_1-Стратегия\2_Принцип открытости, закрытости\obj\Debug\net6.0\2_Принцип открытости, закрытости.AssemblyInfoInputs.cache
+G:\PATTERNS\C-Sharp-Patterns\Pattern_1-Стратегия\2_Принцип открытости, закрытости\obj\Debug\net6.0\2_Принцип открытости, закрытости.AssemblyInfo.cs
+G:\PATTERNS\C-Sharp-Patterns\Pattern_1-Стратегия\2_Принцип открытости, закрытости\obj\Debug\net6.0\2_Принцип открытости, закрытости.csproj.CoreCompileInputs.cache
+G:\PATTERNS\C-Sharp-Patterns\Pattern_1-Стратегия\2_Принцип открытости, закрытости\obj\Debug\net6.0\2_Принцип открытости, закрытости.dll
+G:\PATTERNS\C-Sharp-Patterns\Pattern_1-Стратегия\2_Принцип открытости, закрытости\obj\Debug\net6.0\refint\2_Принцип открытости, закрытости.dll
+G:\PATTERNS\C-Sharp-Patterns\Pattern_1-Стратегия\2_Принцип открытости, закрытости\obj\Debug\net6.0\2_Принцип открытости, закрытости.pdb
+G:\PATTERNS\C-Sharp-Patterns\Pattern_1-Стратегия\2_Принцип открытости, закрытости\obj\Debug\net6.0\2_Принцип открытости, закрытости.genruntimeconfig.cache
+G:\PATTERNS\C-Sharp-Patterns\Pattern_1-Стратегия\2_Принцип открытости, закрытости\obj\Debug\net6.0\ref\2_Принцип открытости, закрытости.dll
