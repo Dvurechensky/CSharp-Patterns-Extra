@@ -53,6 +53,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "3_Принцип подст
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4_Принцип разделения интерфейсов", "4_Принцип разделения интерфейсов\4_Принцип разделения интерфейсов.csproj", "{C996057D-C40E-426B-9CA3-A6847EDF4E61}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5_Принцип инверсии зависимостей", "5_Принцип инверсии зависимостей\5_Принцип инверсии зависимостей.csproj", "{589C2779-5F8E-428D-A323-F2AFE8BA7D1E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -143,6 +145,10 @@ Global
 		{C996057D-C40E-426B-9CA3-A6847EDF4E61}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C996057D-C40E-426B-9CA3-A6847EDF4E61}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C996057D-C40E-426B-9CA3-A6847EDF4E61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{589C2779-5F8E-428D-A323-F2AFE8BA7D1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{589C2779-5F8E-428D-A323-F2AFE8BA7D1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{589C2779-5F8E-428D-A323-F2AFE8BA7D1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{589C2779-5F8E-428D-A323-F2AFE8BA7D1E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -169,6 +175,7 @@ Global
 		{70256CD9-4C94-486C-8EB5-628ED4850CA0} = {2EC9B0B6-3459-4D1B-90BD-786CF9C23342}
 		{E6BDA065-AF63-4B1F-9858-8FF2A51A7111} = {2EC9B0B6-3459-4D1B-90BD-786CF9C23342}
 		{C996057D-C40E-426B-9CA3-A6847EDF4E61} = {2EC9B0B6-3459-4D1B-90BD-786CF9C23342}
+		{589C2779-5F8E-428D-A323-F2AFE8BA7D1E} = {2EC9B0B6-3459-4D1B-90BD-786CF9C23342}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {7EAC518E-F875-4F24-AB38-B1F72CB23C93}
