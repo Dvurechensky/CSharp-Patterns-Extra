@@ -1,0 +1,15 @@
+G:\PATTERNS\C-Sharp-Patterns\Pattern_1-Стратегия\3_Принцип подстановки Барбары Лисков\bin\Debug\net6.0\3_Принцип подстановки Барбары Лисков.exe
+G:\PATTERNS\C-Sharp-Patterns\Pattern_1-Стратегия\3_Принцип подстановки Барбары Лисков\bin\Debug\net6.0\3_Принцип подстановки Барбары Лисков.deps.json
+G:\PATTERNS\C-Sharp-Patterns\Pattern_1-Стратегия\3_Принцип подстановки Барбары Лисков\bin\Debug\net6.0\3_Принцип подстановки Барбары Лисков.runtimeconfig.json
+G:\PATTERNS\C-Sharp-Patterns\Pattern_1-Стратегия\3_Принцип подстановки Барбары Лисков\bin\Debug\net6.0\3_Принцип подстановки Барбары Лисков.dll
+G:\PATTERNS\C-Sharp-Patterns\Pattern_1-Стратегия\3_Принцип подстановки Барбары Лисков\bin\Debug\net6.0\3_Принцип подстановки Барбары Лисков.pdb
+G:\PATTERNS\C-Sharp-Patterns\Pattern_1-Стратегия\3_Принцип подстановки Барбары Лисков\obj\Debug\net6.0\3_Принцип подстановки Барбары Лисков.csproj.AssemblyReference.cache
+G:\PATTERNS\C-Sharp-Patterns\Pattern_1-Стратегия\3_Принцип подстановки Барбары Лисков\obj\Debug\net6.0\3_Принцип подстановки Барбары Лисков.GeneratedMSBuildEditorConfig.editorconfig
+G:\PATTERNS\C-Sharp-Patterns\Pattern_1-Стратегия\3_Принцип подстановки Барбары Лисков\obj\Debug\net6.0\3_Принцип подстановки Барбары Лисков.AssemblyInfoInputs.cache
+G:\PATTERNS\C-Sharp-Patterns\Pattern_1-Стратегия\3_Принцип подстановки Барбары Лисков\obj\Debug\net6.0\3_Принцип подстановки Барбары Лисков.AssemblyInfo.cs
+G:\PATTERNS\C-Sharp-Patterns\Pattern_1-Стратегия\3_Принцип подстановки Барбары Лисков\obj\Debug\net6.0\3_Принцип подстановки Барбары Лисков.csproj.CoreCompileInputs.cache
+G:\PATTERNS\C-Sharp-Patterns\Pattern_1-Стратегия\3_Принцип подстановки Барбары Лисков\obj\Debug\net6.0\3_Принцип подстановки Барбары Лисков.dll
+G:\PATTERNS\C-Sharp-Patterns\Pattern_1-Стратегия\3_Принцип подстановки Барбары Лисков\obj\Debug\net6.0\refint\3_Принцип подстановки Барбары Лисков.dll
+G:\PATTERNS\C-Sharp-Patterns\Pattern_1-Стратегия\3_Принцип подстановки Барбары Лисков\obj\Debug\net6.0\3_Принцип подстановки Барбары Лисков.pdb
+G:\PATTERNS\C-Sharp-Patterns\Pattern_1-Стратегия\3_Принцип подстановки Барбары Лисков\obj\Debug\net6.0\3_Принцип подстановки Барбары Лисков.genruntimeconfig.cache
+G:\PATTERNS\C-Sharp-Patterns\Pattern_1-Стратегия\3_Принцип подстановки Барбары Лисков\obj\Debug\net6.0\ref\3_Принцип подстановки Барбары Лисков.dll

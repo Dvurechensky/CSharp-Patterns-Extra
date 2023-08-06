@@ -1,0 +1,15 @@
+D:\CSharp Patterns Extra\Patterns\Pattern_9-Цепочка обязанностей\bin\Debug\net6.0\Pattern_9-Цепочка обязанностей(ChainOfResponsobility).exe
+D:\CSharp Patterns Extra\Patterns\Pattern_9-Цепочка обязанностей\bin\Debug\net6.0\Pattern_9-Цепочка обязанностей(ChainOfResponsobility).deps.json
+D:\CSharp Patterns Extra\Patterns\Pattern_9-Цепочка обязанностей\bin\Debug\net6.0\Pattern_9-Цепочка обязанностей(ChainOfResponsobility).runtimeconfig.json
+D:\CSharp Patterns Extra\Patterns\Pattern_9-Цепочка обязанностей\bin\Debug\net6.0\Pattern_9-Цепочка обязанностей(ChainOfResponsobility).dll
+D:\CSharp Patterns Extra\Patterns\Pattern_9-Цепочка обязанностей\bin\Debug\net6.0\Pattern_9-Цепочка обязанностей(ChainOfResponsobility).pdb
+D:\CSharp Patterns Extra\Patterns\Pattern_9-Цепочка обязанностей\obj\Debug\net6.0\Pattern_9-Цепочка обязанностей(ChainOfResponsobility).csproj.AssemblyReference.cache
+D:\CSharp Patterns Extra\Patterns\Pattern_9-Цепочка обязанностей\obj\Debug\net6.0\Pattern_9-Цепочка обязанностей(ChainOfResponsobility).GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp Patterns Extra\Patterns\Pattern_9-Цепочка обязанностей\obj\Debug\net6.0\Pattern_9-Цепочка обязанностей(ChainOfResponsobility).AssemblyInfoInputs.cache
+D:\CSharp Patterns Extra\Patterns\Pattern_9-Цепочка обязанностей\obj\Debug\net6.0\Pattern_9-Цепочка обязанностей(ChainOfResponsobility).AssemblyInfo.cs
+D:\CSharp Patterns Extra\Patterns\Pattern_9-Цепочка обязанностей\obj\Debug\net6.0\Pattern_9-Цепочка обязанностей(ChainOfResponsobility).csproj.CoreCompileInputs.cache
+D:\CSharp Patterns Extra\Patterns\Pattern_9-Цепочка обязанностей\obj\Debug\net6.0\Pattern_9-Цепочка обязанностей(ChainOfResponsobility).dll
+D:\CSharp Patterns Extra\Patterns\Pattern_9-Цепочка обязанностей\obj\Debug\net6.0\refint\Pattern_9-Цепочка обязанностей(ChainOfResponsobility).dll
+D:\CSharp Patterns Extra\Patterns\Pattern_9-Цепочка обязанностей\obj\Debug\net6.0\Pattern_9-Цепочка обязанностей(ChainOfResponsobility).pdb
+D:\CSharp Patterns Extra\Patterns\Pattern_9-Цепочка обязанностей\obj\Debug\net6.0\Pattern_9-Цепочка обязанностей(ChainOfResponsobility).genruntimeconfig.cache
+D:\CSharp Patterns Extra\Patterns\Pattern_9-Цепочка обязанностей\obj\Debug\net6.0\ref\Pattern_9-Цепочка обязанностей(ChainOfResponsobility).dll

@@ -1,0 +1,45 @@
+E:\1_GITHUB\C-Sharp-Patterns\Pattern_1-Стратегия\Pattern_4-Компоновщик(Composite)\bin\Debug\net6.0\Pattern_4-Компоновщик(Composite).exe
+E:\1_GITHUB\C-Sharp-Patterns\Pattern_1-Стратегия\Pattern_4-Компоновщик(Composite)\bin\Debug\net6.0\Pattern_4-Компоновщик(Composite).deps.json
+E:\1_GITHUB\C-Sharp-Patterns\Pattern_1-Стратегия\Pattern_4-Компоновщик(Composite)\bin\Debug\net6.0\Pattern_4-Компоновщик(Composite).runtimeconfig.json
+E:\1_GITHUB\C-Sharp-Patterns\Pattern_1-Стратегия\Pattern_4-Компоновщик(Composite)\bin\Debug\net6.0\Pattern_4-Компоновщик(Composite).dll
+E:\1_GITHUB\C-Sharp-Patterns\Pattern_1-Стратегия\Pattern_4-Компоновщик(Composite)\bin\Debug\net6.0\Pattern_4-Компоновщик(Composite).pdb
+E:\1_GITHUB\C-Sharp-Patterns\Pattern_1-Стратегия\Pattern_4-Компоновщик(Composite)\obj\Debug\net6.0\Pattern_4-Компоновщик(Composite).csproj.AssemblyReference.cache
+E:\1_GITHUB\C-Sharp-Patterns\Pattern_1-Стратегия\Pattern_4-Компоновщик(Composite)\obj\Debug\net6.0\Pattern_4-Компоновщик(Composite).GeneratedMSBuildEditorConfig.editorconfig
+E:\1_GITHUB\C-Sharp-Patterns\Pattern_1-Стратегия\Pattern_4-Компоновщик(Composite)\obj\Debug\net6.0\Pattern_4-Компоновщик(Composite).AssemblyInfoInputs.cache
+E:\1_GITHUB\C-Sharp-Patterns\Pattern_1-Стратегия\Pattern_4-Компоновщик(Composite)\obj\Debug\net6.0\Pattern_4-Компоновщик(Composite).AssemblyInfo.cs
+E:\1_GITHUB\C-Sharp-Patterns\Pattern_1-Стратегия\Pattern_4-Компоновщик(Composite)\obj\Debug\net6.0\Pattern_4-Компоновщик(Composite).csproj.CoreCompileInputs.cache
+E:\1_GITHUB\C-Sharp-Patterns\Pattern_1-Стратегия\Pattern_4-Компоновщик(Composite)\obj\Debug\net6.0\Pattern_4-Компоновщик(Composite).dll
+E:\1_GITHUB\C-Sharp-Patterns\Pattern_1-Стратегия\Pattern_4-Компоновщик(Composite)\obj\Debug\net6.0\refint\Pattern_4-Компоновщик(Composite).dll
+E:\1_GITHUB\C-Sharp-Patterns\Pattern_1-Стратегия\Pattern_4-Компоновщик(Composite)\obj\Debug\net6.0\Pattern_4-Компоновщик(Composite).pdb
+E:\1_GITHUB\C-Sharp-Patterns\Pattern_1-Стратегия\Pattern_4-Компоновщик(Composite)\obj\Debug\net6.0\Pattern_4-Компоновщик(Composite).genruntimeconfig.cache
+E:\1_GITHUB\C-Sharp-Patterns\Pattern_1-Стратегия\Pattern_4-Компоновщик(Composite)\obj\Debug\net6.0\ref\Pattern_4-Компоновщик(Composite).dll
+G:\PATTERNS\C-Sharp-Patterns\Pattern_1-Стратегия\Pattern_4-Компоновщик(Composite)\bin\Debug\net6.0\Pattern_4-Компоновщик(Composite).exe
+G:\PATTERNS\C-Sharp-Patterns\Pattern_1-Стратегия\Pattern_4-Компоновщик(Composite)\bin\Debug\net6.0\Pattern_4-Компоновщик(Composite).deps.json
+G:\PATTERNS\C-Sharp-Patterns\Pattern_1-Стратегия\Pattern_4-Компоновщик(Composite)\bin\Debug\net6.0\Pattern_4-Компоновщик(Composite).runtimeconfig.json
+G:\PATTERNS\C-Sharp-Patterns\Pattern_1-Стратегия\Pattern_4-Компоновщик(Composite)\bin\Debug\net6.0\Pattern_4-Компоновщик(Composite).dll
+G:\PATTERNS\C-Sharp-Patterns\Pattern_1-Стратегия\Pattern_4-Компоновщик(Composite)\bin\Debug\net6.0\Pattern_4-Компоновщик(Composite).pdb
+G:\PATTERNS\C-Sharp-Patterns\Pattern_1-Стратегия\Pattern_4-Компоновщик(Composite)\obj\Debug\net6.0\Pattern_4-Компоновщик(Composite).csproj.AssemblyReference.cache
+G:\PATTERNS\C-Sharp-Patterns\Pattern_1-Стратегия\Pattern_4-Компоновщик(Composite)\obj\Debug\net6.0\Pattern_4-Компоновщик(Composite).GeneratedMSBuildEditorConfig.editorconfig
+G:\PATTERNS\C-Sharp-Patterns\Pattern_1-Стратегия\Pattern_4-Компоновщик(Composite)\obj\Debug\net6.0\Pattern_4-Компоновщик(Composite).AssemblyInfoInputs.cache
+G:\PATTERNS\C-Sharp-Patterns\Pattern_1-Стратегия\Pattern_4-Компоновщик(Composite)\obj\Debug\net6.0\Pattern_4-Компоновщик(Composite).AssemblyInfo.cs
+G:\PATTERNS\C-Sharp-Patterns\Pattern_1-Стратегия\Pattern_4-Компоновщик(Composite)\obj\Debug\net6.0\Pattern_4-Компоновщик(Composite).csproj.CoreCompileInputs.cache
+G:\PATTERNS\C-Sharp-Patterns\Pattern_1-Стратегия\Pattern_4-Компоновщик(Composite)\obj\Debug\net6.0\Pattern_4-Компоновщик(Composite).dll
+G:\PATTERNS\C-Sharp-Patterns\Pattern_1-Стратегия\Pattern_4-Компоновщик(Composite)\obj\Debug\net6.0\refint\Pattern_4-Компоновщик(Composite).dll
+G:\PATTERNS\C-Sharp-Patterns\Pattern_1-Стратегия\Pattern_4-Компоновщик(Composite)\obj\Debug\net6.0\Pattern_4-Компоновщик(Composite).pdb
+G:\PATTERNS\C-Sharp-Patterns\Pattern_1-Стратегия\Pattern_4-Компоновщик(Composite)\obj\Debug\net6.0\Pattern_4-Компоновщик(Composite).genruntimeconfig.cache
+G:\PATTERNS\C-Sharp-Patterns\Pattern_1-Стратегия\Pattern_4-Компоновщик(Composite)\obj\Debug\net6.0\ref\Pattern_4-Компоновщик(Composite).dll
+D:\CSharp Patterns Extra\Patterns\Pattern_4-Компоновщик(Composite)\bin\Debug\net6.0\Pattern_4-Компоновщик(Composite).exe
+D:\CSharp Patterns Extra\Patterns\Pattern_4-Компоновщик(Composite)\bin\Debug\net6.0\Pattern_4-Компоновщик(Composite).deps.json
+D:\CSharp Patterns Extra\Patterns\Pattern_4-Компоновщик(Composite)\bin\Debug\net6.0\Pattern_4-Компоновщик(Composite).runtimeconfig.json
+D:\CSharp Patterns Extra\Patterns\Pattern_4-Компоновщик(Composite)\bin\Debug\net6.0\Pattern_4-Компоновщик(Composite).dll
+D:\CSharp Patterns Extra\Patterns\Pattern_4-Компоновщик(Composite)\bin\Debug\net6.0\Pattern_4-Компоновщик(Composite).pdb
+D:\CSharp Patterns Extra\Patterns\Pattern_4-Компоновщик(Composite)\obj\Debug\net6.0\Pattern_4-Компоновщик(Composite).csproj.AssemblyReference.cache
+D:\CSharp Patterns Extra\Patterns\Pattern_4-Компоновщик(Composite)\obj\Debug\net6.0\Pattern_4-Компоновщик(Composite).GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp Patterns Extra\Patterns\Pattern_4-Компоновщик(Composite)\obj\Debug\net6.0\Pattern_4-Компоновщик(Composite).AssemblyInfoInputs.cache
+D:\CSharp Patterns Extra\Patterns\Pattern_4-Компоновщик(Composite)\obj\Debug\net6.0\Pattern_4-Компоновщик(Composite).AssemblyInfo.cs
+D:\CSharp Patterns Extra\Patterns\Pattern_4-Компоновщик(Composite)\obj\Debug\net6.0\Pattern_4-Компоновщик(Composite).csproj.CoreCompileInputs.cache
+D:\CSharp Patterns Extra\Patterns\Pattern_4-Компоновщик(Composite)\obj\Debug\net6.0\Pattern_4-Компоновщик(Composite).dll
+D:\CSharp Patterns Extra\Patterns\Pattern_4-Компоновщик(Composite)\obj\Debug\net6.0\refint\Pattern_4-Компоновщик(Composite).dll
+D:\CSharp Patterns Extra\Patterns\Pattern_4-Компоновщик(Composite)\obj\Debug\net6.0\Pattern_4-Компоновщик(Composite).pdb
+D:\CSharp Patterns Extra\Patterns\Pattern_4-Компоновщик(Composite)\obj\Debug\net6.0\Pattern_4-Компоновщик(Composite).genruntimeconfig.cache
+D:\CSharp Patterns Extra\Patterns\Pattern_4-Компоновщик(Composite)\obj\Debug\net6.0\ref\Pattern_4-Компоновщик(Composite).dll

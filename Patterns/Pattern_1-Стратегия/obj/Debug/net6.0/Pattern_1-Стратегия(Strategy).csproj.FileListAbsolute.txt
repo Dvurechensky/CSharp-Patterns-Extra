@@ -1,0 +1,15 @@
+D:\CSharp Patterns Extra\Patterns\Pattern_1-Стратегия\bin\Debug\net6.0\Pattern_1-Стратегия(Strategy).exe
+D:\CSharp Patterns Extra\Patterns\Pattern_1-Стратегия\bin\Debug\net6.0\Pattern_1-Стратегия(Strategy).deps.json
+D:\CSharp Patterns Extra\Patterns\Pattern_1-Стратегия\bin\Debug\net6.0\Pattern_1-Стратегия(Strategy).runtimeconfig.json
+D:\CSharp Patterns Extra\Patterns\Pattern_1-Стратегия\bin\Debug\net6.0\Pattern_1-Стратегия(Strategy).dll
+D:\CSharp Patterns Extra\Patterns\Pattern_1-Стратегия\bin\Debug\net6.0\Pattern_1-Стратегия(Strategy).pdb
+D:\CSharp Patterns Extra\Patterns\Pattern_1-Стратегия\obj\Debug\net6.0\Pattern_1-Стратегия(Strategy).csproj.AssemblyReference.cache
+D:\CSharp Patterns Extra\Patterns\Pattern_1-Стратегия\obj\Debug\net6.0\Pattern_1-Стратегия(Strategy).GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp Patterns Extra\Patterns\Pattern_1-Стратегия\obj\Debug\net6.0\Pattern_1-Стратегия(Strategy).AssemblyInfoInputs.cache
+D:\CSharp Patterns Extra\Patterns\Pattern_1-Стратегия\obj\Debug\net6.0\Pattern_1-Стратегия(Strategy).AssemblyInfo.cs
+D:\CSharp Patterns Extra\Patterns\Pattern_1-Стратегия\obj\Debug\net6.0\Pattern_1-Стратегия(Strategy).csproj.CoreCompileInputs.cache
+D:\CSharp Patterns Extra\Patterns\Pattern_1-Стратегия\obj\Debug\net6.0\Pattern_1-Стратегия(Strategy).dll
+D:\CSharp Patterns Extra\Patterns\Pattern_1-Стратегия\obj\Debug\net6.0\refint\Pattern_1-Стратегия(Strategy).dll
+D:\CSharp Patterns Extra\Patterns\Pattern_1-Стратегия\obj\Debug\net6.0\Pattern_1-Стратегия(Strategy).pdb
+D:\CSharp Patterns Extra\Patterns\Pattern_1-Стратегия\obj\Debug\net6.0\Pattern_1-Стратегия(Strategy).genruntimeconfig.cache
+D:\CSharp Patterns Extra\Patterns\Pattern_1-Стратегия\obj\Debug\net6.0\ref\Pattern_1-Стратегия(Strategy).dll

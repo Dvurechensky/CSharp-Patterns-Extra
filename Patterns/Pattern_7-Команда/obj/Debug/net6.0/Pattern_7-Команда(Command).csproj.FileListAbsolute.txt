@@ -1,0 +1,15 @@
+D:\CSharp Patterns Extra\Patterns\Pattern_7-Команда\bin\Debug\net6.0\Pattern_7-Команда(Command).exe
+D:\CSharp Patterns Extra\Patterns\Pattern_7-Команда\bin\Debug\net6.0\Pattern_7-Команда(Command).deps.json
+D:\CSharp Patterns Extra\Patterns\Pattern_7-Команда\bin\Debug\net6.0\Pattern_7-Команда(Command).runtimeconfig.json
+D:\CSharp Patterns Extra\Patterns\Pattern_7-Команда\bin\Debug\net6.0\Pattern_7-Команда(Command).dll
+D:\CSharp Patterns Extra\Patterns\Pattern_7-Команда\bin\Debug\net6.0\Pattern_7-Команда(Command).pdb
+D:\CSharp Patterns Extra\Patterns\Pattern_7-Команда\obj\Debug\net6.0\Pattern_7-Команда(Command).csproj.AssemblyReference.cache
+D:\CSharp Patterns Extra\Patterns\Pattern_7-Команда\obj\Debug\net6.0\Pattern_7-Команда(Command).GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp Patterns Extra\Patterns\Pattern_7-Команда\obj\Debug\net6.0\Pattern_7-Команда(Command).AssemblyInfoInputs.cache
+D:\CSharp Patterns Extra\Patterns\Pattern_7-Команда\obj\Debug\net6.0\Pattern_7-Команда(Command).AssemblyInfo.cs
+D:\CSharp Patterns Extra\Patterns\Pattern_7-Команда\obj\Debug\net6.0\Pattern_7-Команда(Command).csproj.CoreCompileInputs.cache
+D:\CSharp Patterns Extra\Patterns\Pattern_7-Команда\obj\Debug\net6.0\Pattern_7-Команда(Command).dll
+D:\CSharp Patterns Extra\Patterns\Pattern_7-Команда\obj\Debug\net6.0\refint\Pattern_7-Команда(Command).dll
+D:\CSharp Patterns Extra\Patterns\Pattern_7-Команда\obj\Debug\net6.0\Pattern_7-Команда(Command).pdb
+D:\CSharp Patterns Extra\Patterns\Pattern_7-Команда\obj\Debug\net6.0\Pattern_7-Команда(Command).genruntimeconfig.cache
+D:\CSharp Patterns Extra\Patterns\Pattern_7-Команда\obj\Debug\net6.0\ref\Pattern_7-Команда(Command).dll

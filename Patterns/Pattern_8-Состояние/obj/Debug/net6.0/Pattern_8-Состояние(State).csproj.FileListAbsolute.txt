@@ -1,0 +1,15 @@
+D:\CSharp Patterns Extra\Patterns\Pattern_8-Состояние\bin\Debug\net6.0\Pattern_8-Состояние(State).exe
+D:\CSharp Patterns Extra\Patterns\Pattern_8-Состояние\bin\Debug\net6.0\Pattern_8-Состояние(State).deps.json
+D:\CSharp Patterns Extra\Patterns\Pattern_8-Состояние\bin\Debug\net6.0\Pattern_8-Состояние(State).runtimeconfig.json
+D:\CSharp Patterns Extra\Patterns\Pattern_8-Состояние\bin\Debug\net6.0\Pattern_8-Состояние(State).dll
+D:\CSharp Patterns Extra\Patterns\Pattern_8-Состояние\bin\Debug\net6.0\Pattern_8-Состояние(State).pdb
+D:\CSharp Patterns Extra\Patterns\Pattern_8-Состояние\obj\Debug\net6.0\Pattern_8-Состояние(State).csproj.AssemblyReference.cache
+D:\CSharp Patterns Extra\Patterns\Pattern_8-Состояние\obj\Debug\net6.0\Pattern_8-Состояние(State).GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp Patterns Extra\Patterns\Pattern_8-Состояние\obj\Debug\net6.0\Pattern_8-Состояние(State).AssemblyInfoInputs.cache
+D:\CSharp Patterns Extra\Patterns\Pattern_8-Состояние\obj\Debug\net6.0\Pattern_8-Состояние(State).AssemblyInfo.cs
+D:\CSharp Patterns Extra\Patterns\Pattern_8-Состояние\obj\Debug\net6.0\Pattern_8-Состояние(State).csproj.CoreCompileInputs.cache
+D:\CSharp Patterns Extra\Patterns\Pattern_8-Состояние\obj\Debug\net6.0\Pattern_8-Состояние(State).dll
+D:\CSharp Patterns Extra\Patterns\Pattern_8-Состояние\obj\Debug\net6.0\refint\Pattern_8-Состояние(State).dll
+D:\CSharp Patterns Extra\Patterns\Pattern_8-Состояние\obj\Debug\net6.0\Pattern_8-Состояние(State).pdb
+D:\CSharp Patterns Extra\Patterns\Pattern_8-Состояние\obj\Debug\net6.0\Pattern_8-Состояние(State).genruntimeconfig.cache
+D:\CSharp Patterns Extra\Patterns\Pattern_8-Состояние\obj\Debug\net6.0\ref\Pattern_8-Состояние(State).dll
